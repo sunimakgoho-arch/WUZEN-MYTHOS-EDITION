@@ -120,8 +120,7 @@ No coding knowledge required. Just configure, upload your logo, hit **Build**, a
 ```
 Browser → WUZEN Panel → Build Script → Signed APK ✅
 ```
-<a href="https://t.me/wuzenrat/6" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; background: #238636; color: white; font-weight: 600; font-size: 14px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; padding: 8px 20px; border-radius: 40px; text-decoration: none; transition: 0.2s; box-shadow: 0 1px 2px rgba(0,0,0,0.2);">📦 Download Source Code</a>
-
+<a href="https://t.me/wuzenrat/6" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; background: #238636; color: white; font-weight: 600; font-size: 16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; padding: 8px 20px; border-radius: 40px; text-decoration: none; transition: 0.2s; box-shadow: 0 1px 2px rgba(0,0,0,0.2);">📦 Download Source Code</a>
 ---
 
 ## 🌟 Features
