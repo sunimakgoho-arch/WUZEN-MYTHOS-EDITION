@@ -160,8 +160,8 @@ You'll need the following installed:
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone <[your-repo-url](https://github.com/sunimakgoho-arch/WUZEN-MYTHOS-EDITION.git)>
+cd <WUZEN-MYTHOS-EDITION>
 ```
 
 ---
